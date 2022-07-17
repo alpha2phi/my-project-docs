@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"index.html","text":"Documentation for my-project-docs \u00b6 Welcome to my-project-docs","title":"Home"},{"location":"index.html#documentation-for-my-project-docs","text":"Welcome to my-project-docs","title":"Documentation for my-project-docs"}]}
