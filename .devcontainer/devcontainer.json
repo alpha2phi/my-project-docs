@@ -1,0 +1,9 @@
+{
+	"name": "Existing Dockerfile",
+
+	"context": "..",
+
+	"dockerFile": "./Dockerfile",
+        "workspaceMount": "source=${localWorkspaceFolder}/myRepo,target=/workspaces,type=bind,consistency=delegated",
+        "workspaceFolder": "/workspaces"
+}
